@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Tushar Indorkar 👋
 
-<!--
-**Indorkar-29/Indorkar-29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate **MERN Stack Developer based in Nagpur**, focused on building scalable web applications and REST APIs using MongoDB, Express.js, React.js, and Node.js.
 
-Here are some ideas to get you started:
+💻 I specialize in:
+- Frontend with React, HTML, CSS, and JavaScript
+- Backend with Node.js and Express
+- Hosting on AWS
+- CMS platforms like WordPress, Shopify, and Wix
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Portfolio: [indorkar-29.github.io/Portfolio](https://indorkar-29.github.io/Portfolio)  
+🔗 LinkedIn: [linkedin.com/in/tushar-indorkar29](https://www.linkedin.com/in/tushar-indorkar29)
+
+Let's build something impactful!
